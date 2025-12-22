@@ -17,8 +17,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'info@elitecaulking.com.au',
-    href: 'mailto:info@elitecaulking.com.au',
+    value: 'info@primelineservices.com.au',
+    href: 'mailto:info@primelineservices.com.au',
   },
   {
     icon: MapPin,
@@ -88,7 +88,7 @@ const ContactSection = () => {
       );
       
       // Open mail client
-      window.location.href = `mailto:info@elitecaulking.com.au?subject=${subject}&body=${body}`;
+      window.location.href = `mailto:info@primelineservices.com.au?subject=${subject}&body=${body}`;
       
       setIsSubmitted(true);
       toast({

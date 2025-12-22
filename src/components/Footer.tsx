@@ -42,13 +42,13 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-10 h-10 bg-accent-gradient rounded-lg flex items-center justify-center">
-                <span className="text-cream font-heading font-bold text-xl">E</span>
+                <span className="text-cream font-heading font-bold text-xl">P</span>
               </div>
               <div>
                 <span className="font-heading font-bold text-lg text-cream">
-                  Elite Caulking
+                  Primeline
                 </span>
-                <span className="block text-xs text-cream/60">Solutions</span>
+                <span className="block text-xs text-cream/60">Services</span>
               </div>
             </div>
             <p className="text-cream/70 text-sm leading-relaxed mb-6">
@@ -110,10 +110,10 @@ const Footer = () => {
                 0400 123 456
               </a>
               <a
-                href="mailto:info@elitecaulking.com.au"
+                href="mailto:info@primelineservices.com.au"
                 className="block hover:text-cream transition-colors"
               >
-                info@elitecaulking.com.au
+                info@primelineservices.com.au
               </a>
               <p>Mon-Sat: 7am - 6pm</p>
             </div>
@@ -123,7 +123,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-cream/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-cream/50 text-sm">
-            © {new Date().getFullYear()} Elite Caulking Solutions. All rights reserved.
+            © {new Date().getFullYear()} Primeline Services. All rights reserved.
           </p>
           <button
             onClick={scrollToTop}

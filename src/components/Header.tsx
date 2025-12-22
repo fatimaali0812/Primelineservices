@@ -53,14 +53,14 @@ const Header = () => {
           transition={{ duration: 0.5 }}
         >
           <div className="w-10 h-10 bg-accent-gradient rounded-lg flex items-center justify-center">
-            <span className="text-primary-foreground font-heading font-bold text-xl">E</span>
+            <span className="text-primary-foreground font-heading font-bold text-xl">P</span>
           </div>
           <div className="hidden sm:block">
             <span className={`font-heading font-bold text-lg ${isScrolled ? 'text-foreground' : 'text-card'}`}>
-              Elite Caulking
+              Primeline
             </span>
             <span className={`block text-xs ${isScrolled ? 'text-muted-foreground' : 'text-card/80'}`}>
-              Solutions
+              Services
             </span>
           </div>
         </motion.a>
