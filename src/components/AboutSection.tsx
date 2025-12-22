@@ -95,7 +95,7 @@ const AboutSection = () => {
               Quality Craftsmanship You Can Trust
             </h3>
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              Elite Caulking Solutions is a Sydney-based company dedicated to delivering 
+              Primeline Services is a Sydney-based company dedicated to delivering 
               superior caulking and joint sealing services. Our skilled team brings precision 
               and attention to detail to every project, ensuring lasting results that protect 
               and beautify your property.
