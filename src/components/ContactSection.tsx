@@ -11,7 +11,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '0400 123 456',
+    value: '61678',
     href: 'tel:0400123456',
   },
   {
